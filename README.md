@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  < src="img" "/>
+  < src= "/>
 </p>
 
 ---
