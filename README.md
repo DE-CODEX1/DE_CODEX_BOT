@@ -24,10 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/INCONNU-XD/count.svg" alt="Visitor Count" />
-</p>
 
----
 
 ## ✨ Features
 
