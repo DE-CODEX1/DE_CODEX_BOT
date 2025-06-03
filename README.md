@@ -18,7 +18,7 @@
   <a href="https://github.com/DE-CODEX1">
      
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R">
+   ">
     <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
