@@ -32,7 +32,7 @@
 - ✅ Session Sharing System  
 - ✅ Fully Open Source  
 - ✅ Auto QR to DM  
-- ✅ Session ID Generator (`INCONNU-SESSION-ID`)  
+- ✅ Session ID Generator (`DE-CODEX-SESSION-ID`)  
 - ✅ Multi Deploy Options (Render, Heroku, Koyeb, etc.)
 
 ---
@@ -40,11 +40,11 @@
 ## ⚙️ Deploy Easily
 
 ### 🔑 Get Your Session ID
-[![NCONNU XD SESSION](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/)
+[![DE-CODEX SESSION](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/)
 
 
 ### 🔑 Get PAIR CODE
-[![INCONNU XD PAIR](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/pair)
+[![DE-CODEX PAIR](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/pair)
 
 
 ---
